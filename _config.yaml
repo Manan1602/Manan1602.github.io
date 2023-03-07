@@ -2,11 +2,11 @@
 title: "Personal Website"
 name: "N-word notes"
 baseurl: ""
-url: "https://airpods69.github.io/"
+url: "https://manan1602.github.io/"
 description: "Just a website to maintain stuff because I didn't have one"
 # logo_url: "https://avatars.githubusercontent.com/u/26499754?v=4"
-author_name: "Airpods"
-footer: 'Notes for airpods'
+author_name: "Manan Sharma"
+footer: 'Something you won't understand :)'
 header_pages:
   - index.md
   - about.md

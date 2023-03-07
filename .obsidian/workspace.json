@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "64c905a693aaa690",
+        "id": "9edf8cca8aea7eea",
         "type": "tabs",
         "children": [
           {
-            "id": "e1e00915699bec0a",
+            "id": "e258bbb713a0edaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VarooMadarchod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07691f5425bc9161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VarooMadarchod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a9da8e0a6dc4a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_config.yaml.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_config.yaml.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_config.yaml.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_config.yaml.md"
+                "file": "index.md"
               }
             }
           }
@@ -171,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71856b4a419a189d",
+  "active": "e258bbb713a0edaf",
   "lastOpenFiles": [
+    "_config.yaml",
     "VarooMadarchod.md",
-    "_config.yaml.md",
-    "index.md"
+    "index.md",
+    "www.google.com.md",
+    "_config.yaml.md"
   ]
 }
